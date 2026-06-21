@@ -1,0 +1,10 @@
+# Mythos Research Sources
+Topic: Feynman Lectures on Physics Volume I Part III (Chapters 21-36): Oscillations, Waves, and Optics. Topics: the harmonic oscillator (damped, driven), algebra review for physics, resonance phenomena, transients in linear systems, linear systems and superposition review, Fermat's principle of least time, geometrical optics (reflection, refraction, lenses), electromagnetic radiation (Maxwell's equations, dipole radiation), interference (two-slit, thin films), diffraction (single slit, gratings), the origin of refractive index (atomic oscillators), radiation damping and light scattering, polarization (linear, circular, Brewster's angle), relativistic effects in radiation (synchrotron radiation, Doppler effect), color vision (physiology, trichromatic theory), mechanisms of seeing (rod/cone cells, neural processing). Deep research into physical principles, Feynman's Caltech pedagogy, and the unity of wave phenomena across these chapters.
+Generated: 2026-06-21T01:13:04.363Z
+
+## Source-type histogram
+
+## All Sources Consulted
+
+## Directions Explored
+- [prelude, d1] Feynman Lectures on Physics Volume I Part III (Chapters 21-36): Oscillations, Waves, and Optics. Topics: the harmonic oscillator (damped, driven), algebra review for physics, resonance phenomena, transients in linear systems, linear systems and superposition review, Fermat's principle of least time, geometrical optics (reflection, refraction, lenses), electromagnetic radiation (Maxwell's equations, dipole radiation), interference (two-slit, thin films), diffraction (single slit, gratings), the origin of refractive index (atomic oscillators), radiation damping and light scattering, polarization (linear, circular, Brewster's angle), relativistic effects in radiation (synchrotron radiation, Doppler effect), color vision (physiology, trichromatic theory), mechanisms of seeing (rod/cone cells, neural processing). Deep research into physical principles, Feynman's Caltech pedagogy, and the unity of wave phenomena across these chapters.

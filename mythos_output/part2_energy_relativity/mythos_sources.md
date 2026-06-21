@@ -1,0 +1,10 @@
+# Mythos Research Sources
+Topic: Feynman Lectures on Physics Volume I Part II (Chapters 13-20): Energy, Relativity, and Rotation. Topics: work and potential energy (gravitational, elastic), the special theory of relativity (Lorentz transformations, time dilation, length contraction), relativistic energy and momentum (E=mc^2), space-time (Minkowski diagrams, four-vectors), rotation in two dimensions (torque, angular momentum), center of mass and moment of inertia, rotation in three-dimensional space (rigid body dynamics, gyroscopes). Deep research into the physical principles, Feynman's pedagogical approach at Caltech 1963, and key mathematical derivations.
+Generated: 2026-06-21T01:05:42.913Z
+
+## Source-type histogram
+
+## All Sources Consulted
+
+## Directions Explored
+- [prelude, d1] Feynman Lectures on Physics Volume I Part II (Chapters 13-20): Energy, Relativity, and Rotation. Topics: work and potential energy (gravitational, elastic), the special theory of relativity (Lorentz transformations, time dilation, length contraction), relativistic energy and momentum (E=mc^2), space-time (Minkowski diagrams, four-vectors), rotation in two dimensions (torque, angular momentum), center of mass and moment of inertia, rotation in three-dimensional space (rigid body dynamics, gyroscopes). Deep research into the physical principles, Feynman's pedagogical approach at Caltech 1963, and key mathematical derivations.

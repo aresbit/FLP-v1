@@ -1,0 +1,55 @@
+## The Feynman Lectures on Physics, Vol. I, Chapter 1: Atoms in Motion
+
+### 1–1 Introduction
+
+The chapter opens by addressing the reader as a prospective physicist, noting the enormous scope of physics spanning "two hundred years of the most rapidly developing field of knowledge." Feynman explains that a survey or map of the subject is needed before diving in, so the first three chapters outline physics' relation to other sciences.
+
+He addresses why physics cannot be taught by simply stating axioms and deducing everything, as in Euclidean geometry. Two reasons are given: not all basic laws are yet known, and the correct laws "involve some very unfamiliar ideas which require advanced mathematics for their description."
+
+Feynman emphasizes that all physical knowledge is approximate: "Each piece, or part, of the whole of nature is always merely an approximation to the complete truth." He articulates the scientific principle that "The test of all knowledge is experiment," with experiment serving as "the sole judge of scientific 'truth.'" The process involves imagination to guess at patterns, then experimental verification. He notes a division of labor between theoretical and experimental physicists.
+
+He illustrates approximation through the mass-velocity relationship, where the constant-mass law is correct to "within one part in a million" for speeds under 100 miles per second. Even small corrections can require profound philosophical changes: "Even a very small effect sometimes requires profound changes in our ideas."
+
+A pedagogical dilemma is posed: whether to teach correct-but-difficult concepts first or approximate-but-simple ones. Feynman states both approaches have merit at different stages.
+
+### 1–2 Matter is made of atoms
+
+Feynman proposes the atomic hypothesis as the single sentence containing "the most information in the fewest words": "all things are made of atoms—little particles that move around in perpetual motion, attracting each other when they are a little distance apart, but repelling upon being squeezed into one another."
+
+He illustrates the atomic idea through progressive magnification of a water drop. After magnifying 2,000× we see paramecia. At another 2,000× the drop spans "about fifteen miles across" and reveals a teeming, non-smooth appearance. At a billion times magnification (Fig. 1–1), we see oxygen (black) and hydrogen (white) atoms with each oxygen bound to two hydrogens, forming molecules. The atoms have radii of 1 or 2 × 10⁻⁸ cm (1–2 ångströms, Å). A memorable scale comparison: if an apple were magnified to Earth's size, "the atoms in the apple are approximately the size of the original apple."
+
+Key properties emerge:
+- Water maintains volume due to molecular attraction
+- Temperature corresponds to jiggling motion; heating increases motion
+- Heating eventually overcomes attraction, producing steam (Fig. 1–2)
+- The H–O–H angle is 105°3′, with O–H distance of 0.957 Å
+
+Steam/gas properties (Fig. 1–3): molecules bounce against walls, exerting pressure. Pressure is proportional to density at constant temperature. Increasing temperature increases both impact force and collision frequency, raising pressure.
+
+Compression dynamics: when a piston moves inward, atoms rebound with greater speed, so "when we compress a gas slowly, the temperature of the gas increases." Conversely, expansion cools the gas.
+
+Cooling water (Fig. 1–4): at low temperatures, molecules lock into crystalline ice with definite atomic positions. Ice exhibits hexagonal symmetry explaining six-sided snowflakes. Unlike most substances, ice shrinks upon melting because its open crystal structure "has many 'holes' in it." Even in solid ice, atoms vibrate in place, with this vibration representing heat content. At absolute zero, there remains "a minimum amount of motion that atoms can have, but not zero." Helium is an exception—it remains liquid at absolute zero unless pressurized.
+
+### 1–3 Atomic processes
+
+**Evaporation** (Fig. 1–5): At the water surface in air, water molecules occasionally get knocked away, becoming vapor. Simultaneously, vapor molecules return to the liquid. In a closed container, equilibrium is reached where departure and return rates match. With the cover removed and dry air blown across, departure exceeds return, causing net evaporation and cooling—hence "blow on soup to cool it." Molecules that leave possess above-average energy, so the remaining liquid cools. Incoming vapor molecules generate heat upon impact.
+
+**Dissolution** (Figs. 1–6, 1–7): Salt (sodium chloride) consists of ions—chlorine with an extra electron, sodium missing one—held by electrical attraction. In water, the negative oxygen end of H₂O orients toward positive sodium ions, while positive hydrogen ends orient toward chlorine ions. Ions detach and reattach dynamically; whether net dissolution or crystallization occurs depends on whether the salt concentration is below or above equilibrium. Temperature affects dissolution, with most substances dissolving more when heated, though some dissolve less.
+
+**Gas dissolution**: Air molecules (O₂, N₂) also enter water. If external air is suddenly removed, dissolved gases exit rapidly, forming bubbles—a hazard for divers.
+
+### 1–4 Chemical reactions
+
+Chemical reactions involve atoms changing partners (Fig. 1–8), distinct from physical processes where partners remain unchanged—though Feynman notes "there is no sharp distinction between the two."
+
+Carbon burning in oxygen: O₂ molecules approach carbon atoms in a solid. Each oxygen can bond with carbon forming CO (carbon monoxide). Since "carbon attracts oxygen much more than oxygen attracts oxygen or carbon attracts carbon," the reaction releases substantial kinetic energy as heat, sometimes generating light (flames). CO can further combine with oxygen to form CO₂ (carbon dioxide). In rapid combustion with limited oxygen (e.g., automobile engines), significant CO is produced.
+
+The violet odor example (Fig. 1–9): scent molecules are specific atomic arrangements that reach the nose through random molecular motion. The molecule depicted (Fig. 1–10, α-irone) contains a puckered six-carbon ring with attached chains, hydrogens, and oxygen in precise three-dimensional arrangement.
+
+The full chemical name illustrates naming complexity: "4-(2, 2, 3, 6 tetramethyl-5-cyclohexenyl)-3-buten-2-one." Such names must encode complete structural information.
+
+**Evidence for atoms**: The Brownian motion—visible jiggling of colloidal particles under a microscope—results from uneven atomic bombardment. Crystal structures determined by x-ray analysis match macroscopic crystal faces to within seconds of arc, confirming layered atomic arrangements.
+
+Feynman closes by reflecting that if simple atomic arrangements produce water's waves, foam, and rushing sounds, then the staggering complexity of non-repeating atomic arrangements—as in a human being—makes the possibilities of behavior "marvelously" greater. He notes the biological hypothesis "that everything that animals do, atoms do"—that living processes are ultimately comprehensible through atomic physics.
+
+The chapter concludes: "When we say we are a pile of atoms, we do not mean we are merely a pile of atoms," since a non-repeating arrangement of atoms might well account for everything "you see before you in the mirror."

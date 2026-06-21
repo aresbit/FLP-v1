@@ -1,0 +1,1 @@
+It looks like you have not entered a task yet. I am ready to help with whatever you need in the `/home/ares/yyscode/cii-code/feiman` repository -- coding, code review, debugging, research, or anything else. What would you like me to work on?

@@ -1,0 +1,8 @@
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+
+title: 费曼物理学讲义 · 卷1 (中译版)
+description: The Feynman Lectures on Physics, Volume I — Chinese Translation
+theme: jekyll-theme-cayman

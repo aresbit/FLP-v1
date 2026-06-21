@@ -1,0 +1,1 @@
+It looks like you sent an empty message. How can I help you today? Let me know what you're working on or what you'd like me to assist with.
